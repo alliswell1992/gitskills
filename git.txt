@@ -1,2 +1,6 @@
 dev add one line
+<<<<<<< HEAD
 dev add 2th line
+=======
+clonerep main add 2th line
+>>>>>>> 0cf6e8404068d5d6c5cc6b693a2de13260d19bc4
